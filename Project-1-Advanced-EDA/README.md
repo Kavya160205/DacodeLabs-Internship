@@ -74,9 +74,9 @@ Analysis performed on:
 
 ## 📁 Project Files
 
-- Project1_Data_Science.ipynb
+- Project1_Advanced_EDA.ipynb
 - cleaned_dataset.csv
-- Data set.xlsx
+- Dataset.xlsx
 
 
 ## 👨‍💻 Author
